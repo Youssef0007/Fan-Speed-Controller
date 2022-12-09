@@ -6,7 +6,11 @@
  *
  * Description: Commonly used Macros
  *
+<<<<<<< HEAD
  * Author: Youssef Abdelaziz
+=======
+ * Author:youssef abdelaziz
+>>>>>>> 56ae076bb5c99d2662e570bdb8521990fad49aef
  *
  *******************************************************************************/
 
